@@ -3,6 +3,8 @@ Full Time Data Scientist
 
 Part Time Machine Learning Engineer
 
+Expert SQL and Python Hacker (Or at least I think I am)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tj-kim) 
 
