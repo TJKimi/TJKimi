@@ -1,7 +1,5 @@
 # 💫 About Me:
-Full Time Data Scientist
-
-Part Time Machine Learning Engineer and Software Developer
+Data Scientist | Machine Learning Researcher
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tj-kim) 
